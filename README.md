@@ -13,11 +13,11 @@
 
   <tr>
     <td><strong>Frontend</strong></td>
-    <td>Flutter, Dart, HTML5, CSS3</td>
+    <td>Flutter, Dart, HTML5, CSS3,Python,Java</td>
   </tr>
   <tr>
     <td><strong>Database</strong></td>
-    <td>Firebase</td>
+    <td>Firebase,MongoDB,MySQL</td>
   </tr>
   <tr>
     <td><strong>Tools</strong></td>
