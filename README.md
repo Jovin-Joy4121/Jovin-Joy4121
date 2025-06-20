@@ -1,9 +1,6 @@
 
 
 
-https://github.com/user-attachments/assets/65c5e900-5014-4a75-b311-e9fd07365053
-
-
 <!--
 **Jovin-Joy4121/Jovin-Joy4121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
