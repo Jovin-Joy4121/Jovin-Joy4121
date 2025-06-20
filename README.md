@@ -1,16 +1,47 @@
    ![ezgif-6e03741d05237a](https://github.com/user-attachments/assets/efd0b6a5-0a01-41ba-bfa3-ae902001242d)
-<!--
+   
 
-**Jovin-Joy4121/Jovin-Joy4121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+🎓 I'm a learning **Flutter Developer** passionate about building scalable  applications and solving real-world problems.  
+💡 I enjoy mentoring, learning new technologies, and contributing to open-source.  
+🌱 Currently exploring **AI/ML** and **Cloud** concepts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack & Tools
+
+<table>
+
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>Flutter, Dart, HTML5, CSS3</td>
+  </tr>
+  <tr>
+    <td><strong>Database</strong></td>
+    <td>Firebase</td>
+  </tr>
+  <tr>
+    <td><strong>Tools</strong></td>
+    <td>Git & GitHub,VS Code or Android Studio,Flutter DevTools,Emulators (Android/iOS)
+    </td>
+  </tr>
+</table>
+
+
+**Apart from this i have done project using:**
+
+**Java with Netbeans IDE & MySQl[SignChat App]**
+
+**Python with FLask & MongoDB [CHATXP]** with @MIDID
+
+**Python with AI Libraries [TIC-TAC-TOE  mini project]** with @MIDID
+
+## 📊 GitHub Stats
+<a href="https://github.com/Jovin-Joy4121"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cJovin-Joy4121&theme=tokyonight&hide_border=true"></a>
+<a href="https://github.com/Jovin-Joy4121"><img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jovin-Joy4121&theme=tokyonight&hide_border=true"></a>
+<br />
+<br />
+<a href="https://github.com/Jovin-Joy4121"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jovin-Joy4121&theme=tokyonight&hide_border=true"></a>
+<br>
+<br>
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jovin-Joy4121&label=Profile%20views&color=0e75b6&style=flat" alt="coder-jeshwanth" /> </p>
