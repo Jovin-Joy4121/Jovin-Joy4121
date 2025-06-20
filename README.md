@@ -1,5 +1,5 @@
-   ![ezgif-6e03741d05237a](https://github.com/user-attachments/assets/efd0b6a5-0a01-41ba-bfa3-ae902001242d)
-   
+![intro](https://github.com/user-attachments/assets/4a8dd45f-7bde-415f-a6a7-52eaae7d232f) 
+
 
 
 ## 🚀 About Me
