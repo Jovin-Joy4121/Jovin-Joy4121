@@ -17,6 +17,10 @@
     <td>Flutter, Dart, HTML5, CSS3,Python,Java</td>
   </tr>
   <tr>
+    <td><strong>Backend</strong></td>
+    <td>Java,Flask,SpringBoard,Django</td>
+  </tr>
+  <tr>
     <td><strong>Database</strong></td>
     <td>Firebase,MongoDB,MySQL</td>
   </tr>
