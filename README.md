@@ -41,7 +41,7 @@
 **Python with AI Libraries [TIC-TAC-TOE  mini project]** with @MIDID
 
 ## 📊 GitHub Stats
-<a href="https://github.com/Jovin-Joy4121"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cJovin-Joy4121&theme=tokyonight&hide_border=true"></a>
+<a href="https://github.com/Jovin-Joy4121"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jovin-Joy4121&theme=tokyonight&hide_border=true"></a>
 <a href="https://github.com/Jovin-Joy4121"><img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jovin-Joy4121&theme=tokyonight&hide_border=true"></a>
 <br />
 <br />
